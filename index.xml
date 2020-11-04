@@ -6,7 +6,33 @@
     <description>Recent content in Welcome! on Gadiel Pasaribu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://Gadiel-pasaribu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://Gadiel-pasaribu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supermarket Analysis</title>
+      <link>https://Gadiel-pasaribu.github.io/post/project-3/</link>
+      <pubDate>Tue, 03 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Gadiel-pasaribu.github.io/post/project-3/</guid>
+      <description>Click here to see the CODE
+Click here to see the BLOG
+ Description Objectives:
+A. Customer statisfaction:
+ Ratings of the branch Membership Statisfaction  recomendation: Evaluation on each brand and treatment on Membership type customer
+B. customer behaviour:
+ what kind of product that customer bought (quantity) Payment method Busy Hour &amp;amp; Day (based on time and days)  Recomendation: Best time/days for marketing on each product on diffrent gender in diffrent Branch</description>
+    </item>
+    
+    <item>
+      <title>Analysis on Marketing Funnel Effectivity by Olist (Brazillian E-commerce)</title>
+      <link>https://Gadiel-pasaribu.github.io/post/project-2/</link>
+      <pubDate>Fri, 11 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Gadiel-pasaribu.github.io/post/project-2/</guid>
+      <description>Click here to see the CODE Click here to see the BLOG
+ Description B2B Marketing Funnel Analysis (EDA)
+ Marketing performence: How effective the marketing? conversion performence: How much the clients become a seller? Client Characteristics: What client they have, what is the characteristics and how much they worth in the future  </description>
+    </item>
+    
     <item>
       <title>EDA - Indonesian National Hero</title>
       <link>https://Gadiel-pasaribu.github.io/post/project-1/</link>
@@ -15,16 +41,6 @@
       <guid>https://Gadiel-pasaribu.github.io/post/project-1/</guid>
       <description>An Exploratory Data Analysis on Indonesian National Hero
 Link to GitHub Repository</description>
-    </item>
-    
-    <item>
-      <title>Analysis on Marketing Funnel Effectivity by Olist (Brazillian E-commerce)</title>
-      <link>https://Gadiel-pasaribu.github.io/post/project-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://Gadiel-pasaribu.github.io/post/project-2/</guid>
-      <description>B2B Marketing Funnel Analysis (EDA)
- Marketing performence: How effective the marketing? conversion performence: How much the clients become a seller? Client Characteristics: What client they have, what is the characteristics and how much they worth in the future  Link to GitHub Repository</description>
     </item>
     
     <item>
